@@ -1,12 +1,10 @@
 # ML-FROM-SCRATCH
 
-
-
-#  Implementing Supervised Machine Learning Algorithms From Scratch
+# Implementing Supervised Machine Learning Algorithms From Scratch
 
 This project is part of my journey to **strengthen Python logic and coding skills** by building supervised machine learning algorithms **from scratch** — without relying on libraries like scikit-learn for training.
 
-The first algorithm implemented is **Linear Regression**, focusing on understanding the core mathematical steps and translating them into clean Python code.
+The first algorithm implemented is **Linear Regression**, followed by **Logistic Regression**, focusing on understanding the core mathematical steps and translating them into clean Python code.
 
 ---
 
@@ -17,13 +15,10 @@ Using **Python, NumPy, Pandas, and Matplotlib**, this project breaks down how a 
 You’ll see how to:
 
 * Create and visualize a dataset
-* Implement a loss function 
-* Apply gradient descent to update parameters
-* Train the model across epochs
-* Evaluate performance using MAE, RMSE, and R²
-* Visualize the loss curve
-* Compare results with scikit-learn
-* Compare loss curves between both approaches
-
-
-
+* Define the model and hypothesis function
+* Implement the training loop
+* Update parameters iteratively
+* Make predictions
+* Evaluate the model's performance
+* Visualize training progress and results
+* Compare results with prebuilt library implementations
