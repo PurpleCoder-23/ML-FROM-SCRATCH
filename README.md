@@ -4,7 +4,11 @@
 
 This project is part of my journey to **strengthen Python logic and coding skills** by building supervised machine learning algorithms **from scratch** — without relying on libraries like scikit-learn for training.
 
-The first algorithm implemented is **Linear Regression**, followed by **Logistic Regression**, focusing on understanding the core mathematical steps and translating them into clean Python code.
+## 🔹 Algorithms Implemented
+
+* **Linear Regression** – Regression model predicting continuous targets
+* **Logistic Regression** – Binary classification model predicting probabilities and class labels
+* **More algorithms in progress** 🚧
 
 ---
 
