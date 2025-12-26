@@ -8,6 +8,7 @@ This project is part of my journey to **strengthen Python logic and coding skill
 
 * **Linear Regression** – Regression model predicting continuous targets
 * **Logistic Regression** – Binary classification model predicting probabilities and class labels
+* **Support Vector Machine (SVM)** – Margin-based classifier that optimizes decision boundaries and performs well in high-dimensional spaces
 * **More algorithms in progress** 🚧
 
 ---
